@@ -1,101 +1,85 @@
-# 👋 Hi, I'm Hridoy Hosen Khan
+# Hridoy Hosen Khan
 
-💻 Flutter Developer | Mobile Engineer | AI Integration Enthusiast  
-
----
-
-## 🧠 About Me
-I am a passionate Flutter developer with 2+ years of experience building scalable, high-performance cross-platform applications. I specialize in creating production-ready mobile apps with clean architecture, strong backend integration, and modern development practices.
-
-- 📱 Built 10+ production-level applications  
-- 🚀 Deployed apps on Google Play Store & Apple App Store  
-- 🤖 Integrated AI-powered features into real-world applications  
-- 👨‍💼 Experience leading Flutter development teams  
-- 🔗 Strong in REST API & real-time systems  
+Flutter Developer | Mobile Engineer | AI Integration
 
 ---
 
-## 🛠 Tech Stack
+## About Me
+Flutter developer with 2+ years of experience building scalable, high-performance cross-platform applications. Focused on production-ready systems, clean architecture, and strong backend integration.
 
-**Mobile Development**  
+- Built 10+ production-level applications  
+- Deployed apps on Google Play Store and Apple App Store  
+- Integrated AI features into real-world applications  
+- Experience leading Flutter development teams  
+- Strong background in REST APIs and real-time systems  
+
+---
+
+## Tech Stack
+
+Mobile Development  
 Flutter, Dart  
 
-**Backend & Integration**  
+Backend & Integration  
 REST APIs, FastAPI, WebSocket  
 
-**State Management**  
+State Management  
 Riverpod, GetX, Bloc  
 
-**Database & Storage**  
+Database & Storage  
 PostgreSQL, MySQL, Hive, Sqflite  
 
-**Tools & Services**  
+Tools & Services  
 Firebase, FCM, Google Cloud, Git  
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 📱 BilledSmart
-Smart billing system with AI-powered automation and workflow optimization.  
-- Backend API + AI integration  
-- Scalable architecture & performance optimization  
+BilledSmart  
+Smart billing system with AI-powered automation and workflow optimization  
+- Backend API and AI integration  
+- Scalable architecture and performance optimization  
+https://play.google.com/store/apps/details?id=com.billsmart.app  
 
-🔗 https://play.google.com/store/apps/details?id=com.billsmart.app  
-
----
-
-### 📱 Reparo Application
-Full-featured Flutter application built for a franchise client.  
+Reparo Application  
+Production-level Flutter application for a franchise client  
 - In-App Purchase (IAP)  
-- Biometric Authentication  
-- REST API + backend integration  
+- Biometric authentication  
+- Full backend integration  
+https://apps.apple.com/us/app/reparo/id6756050921  
 
-🔗 https://apps.apple.com/us/app/reparo/id6756050921  
-
----
-
-### 📱 Deep Quran
-A feature-rich Islamic app focused on accessibility and performance.  
+Deep Quran  
+Mobile application focused on accessibility and performance  
 - Multi-language support  
 - Firebase authentication  
 - Push notifications (FCM)  
-
-🔗 https://play.google.com/store/apps/details?id=com.deepquran.app  
+https://play.google.com/store/apps/details?id=com.deepquran.app  
 
 ---
 
-## 💼 Professional Experience
+## Experience
 
-**Flutter Developer — Softvence**  
-- Developed and delivered multiple scalable mobile applications  
+Flutter Developer — Softvence  
+- Developed and delivered scalable mobile applications  
 - Integrated backend systems and AI services  
-- Optimized performance and user experience  
+- Improved performance and user experience  
 
-**Flutter Developer (Intern) — SpondonIT**  
+Flutter Developer (Intern) — SpondonIT  
 - Improved UI/UX of InfixLMS  
 - Implemented multi-language support  
 - Enhanced performance and stability  
 
 ---
 
-## 📊 GitHub Stats
-![Hridoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hridoykhan51&show_icons=true)
+## Contact
+Email: hridoykhan.cse.cu@gmail.com  
+Portfolio: https://hridoysoft.netlify.app/  
+LinkedIn: https://www.linkedin.com/in/hridoy-khan-8b8a6a1a0  
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: hridoykhan.cse.cu@gmail.com  
-- 🌐 Portfolio: https://hridoysoft.netlify.app/  
-- 💼 LinkedIn: https://www.linkedin.com/in/hridoy-khan-8b8a6a1a0  
-
----
-
-## 🎯 Current Focus
-- AI + Mobile Application Development  
-- Scalable Backend Systems  
-- Performance Optimization  
-
----
-
-⭐ I enjoy building real-world applications that solve meaningful problems.
+## Focus
+AI-integrated mobile applications  
+Scalable backend systems  
+Performance optimization
