@@ -80,7 +80,7 @@ A feature-rich Islamic app focused on accessibility and performance.
 ---
 
 ## 📊 GitHub Stats
-![Hridoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrikhan&show_icons=true)
+![Hridoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hridoykhan51&show_icons=true)
 
 ---
 
