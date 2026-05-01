@@ -1,85 +1,164 @@
-# Hridoy Hosen Khan
+<h1 align="center">Hridoy Hosen Khan</h1>
 
+<h3 align="center">
 Flutter Developer | Mobile Engineer | AI Integration
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+Application+Engineer;AI+Integrated+Solutions;Clean+Architecture+%26+Scalable+Systems" />
+</p>
+
+<p align="center">
+  <a href="https://hridoysoft.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="mailto:hridoykhan.cse.cu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/hridoy-khan-8b8a6a1a0">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## About Me
-Flutter developer with 2+ years of experience building scalable, high-performance cross-platform applications. Focused on production-ready systems, clean architecture, and strong backend integration.
+## About
 
-- Built 10+ production-level applications  
-- Deployed apps on Google Play Store and Apple App Store  
-- Integrated AI features into real-world applications  
-- Experience leading Flutter development teams  
-- Strong background in REST APIs and real-time systems  
+Flutter developer with 2+ years of experience building scalable, production-ready mobile applications.
+
+Focused on:
+
+* Clean architecture
+* Backend integration
+* AI-powered mobile features
+* High-performance systems
+
+```yaml
+name: Hridoy Hosen Khan
+role: Flutter Developer
+experience: 2+ years
+apps_built: 10+
+platforms: [Android, iOS]
+```
 
 ---
 
 ## Tech Stack
 
-Mobile Development  
-Flutter, Dart  
+### Mobile
 
-Backend & Integration  
-REST APIs, FastAPI, WebSocket  
+Flutter • Dart
 
-State Management  
-Riverpod, GetX, Bloc  
+### Backend & Integration
 
-Database & Storage  
-PostgreSQL, MySQL, Hive, Sqflite  
+REST API • FastAPI • WebSocket
 
-Tools & Services  
-Firebase, FCM, Google Cloud, Git  
+### State Management
+
+Riverpod • Bloc • GetX
+
+### Database
+
+PostgreSQL • MySQL • Hive • Sqflite
+
+### Tools
+
+Firebase • FCM • Google Cloud • Git
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,fastapi,postgres,mysql,git,github,gcp" />
+</p>
 
 ---
 
 ## Projects
 
-BilledSmart  
-Smart billing system with AI-powered automation and workflow optimization  
-- Backend API and AI integration  
-- Scalable architecture and performance optimization  
-https://play.google.com/store/apps/details?id=com.billsmart.app  
+### BilledSmart
 
-Reparo Application  
-Production-level Flutter application for a franchise client  
-- In-App Purchase (IAP)  
-- Biometric authentication  
-- Full backend integration  
-https://apps.apple.com/us/app/reparo/id6756050921  
+Smart billing system with AI-powered automation
 
-Deep Quran  
-Mobile application focused on accessibility and performance  
-- Multi-language support  
-- Firebase authentication  
-- Push notifications (FCM)  
-https://play.google.com/store/apps/details?id=com.deepquran.app  
+* Backend API and AI integration
+* Scalable architecture
+* Performance optimization
+
+https://play.google.com/store/apps/details?id=com.billsmart.app
+
+---
+
+### Reparo Application
+
+Production-level Flutter application
+
+* In-App Purchase
+* Biometric authentication
+* Full backend integration
+
+https://apps.apple.com/us/app/reparo/id6756050921
+
+---
+
+### Deep Quran
+
+High-performance mobile application
+
+* Multi-language support
+* Firebase authentication
+* Push notifications
+
+https://play.google.com/store/apps/details?id=com.deepquran.app
 
 ---
 
 ## Experience
 
-Flutter Developer — Softvence  
-- Developed and delivered scalable mobile applications  
-- Integrated backend systems and AI services  
-- Improved performance and user experience  
+### Softvence — Flutter Developer
 
-Flutter Developer (Intern) — SpondonIT  
-- Improved UI/UX of InfixLMS  
-- Implemented multi-language support  
-- Enhanced performance and stability  
+* Developed scalable mobile applications
+* Integrated backend systems and AI services
+* Improved performance and user experience
 
----
+### SpondonIT — Flutter Developer (Intern)
 
-## Contact
-Email: hridoykhan.cse.cu@gmail.com  
-Portfolio: https://hridoysoft.netlify.app/  
-LinkedIn: https://www.linkedin.com/in/hridoy-khan-8b8a6a1a0  
+* Improved UI/UX of InfixLMS
+* Implemented multi-language support
+* Enhanced performance and stability
 
 ---
 
 ## Focus
-AI-integrated mobile applications  
-Scalable backend systems  
-Performance optimization
+
+```dart
+const focus = [
+  "AI-integrated mobile applications",
+  "Scalable backend systems",
+  "Clean architecture",
+  "Performance optimization",
+];
+```
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Account Notice
+
+My previous GitHub account was unexpectedly suspended.
+This is my new account where I am rebuilding and showcasing my work.
+
+---
+
+## Contact
+
+Portfolio: https://hridoysoft.netlify.app/
+Email: [hridoykhan.cse.cu@gmail.com](mailto:hridoykhan.cse.cu@gmail.com)
+LinkedIn: https://www.linkedin.com/in/hridoy-khan-8b8a6a1a0
