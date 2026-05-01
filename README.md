@@ -24,20 +24,23 @@ Flutter Developer | Mobile Engineer | AI Integration
 
 ## About
 
-Flutter developer with 2+ years of experience building scalable, production-ready mobile applications.
+Flutter developer with 2+ years of experience building scalable, production-grade mobile applications across Android and iOS.
 
-Focused on:
+Experienced in leading Flutter development teams and delivering complete mobile solutions from architecture design to production deployment.
 
-* Clean architecture
-* Backend integration
+Strong focus on:
+
+* Clean architecture and maintainable codebases
+* Backend integration and real-time systems
 * AI-powered mobile features
-* High-performance systems
+* Performance optimization at scale
 
 ```yaml
 name: Hridoy Hosen Khan
 role: Flutter Developer
 experience: 2+ years
 apps_built: 10+
+team_lead_experience: true
 platforms: [Android, iOS]
 ```
 
@@ -81,6 +84,7 @@ Smart billing system with AI-powered automation
 * Scalable architecture
 * Performance optimization
 
+📱 Play Store:
 https://play.google.com/store/apps/details?id=com.billsmart.app
 
 ---
@@ -93,6 +97,7 @@ Production-level Flutter application
 * Biometric authentication
 * Full backend integration
 
+🍎 App Store:
 https://apps.apple.com/us/app/reparo/id6756050921
 
 ---
@@ -105,6 +110,7 @@ High-performance mobile application
 * Firebase authentication
 * Push notifications
 
+📱 Play Store:
 https://play.google.com/store/apps/details?id=com.deepquran.app
 
 ---
@@ -113,9 +119,10 @@ https://play.google.com/store/apps/details?id=com.deepquran.app
 
 ### Softvence — Flutter Developer
 
-* Developed scalable mobile applications
-* Integrated backend systems and AI services
-* Improved performance and user experience
+* Led Flutter development for multiple production applications
+* Designed scalable app architecture and system structure
+* Integrated backend systems and AI-driven features
+* Improved performance, stability, and user experience
 
 ### SpondonIT — Flutter Developer (Intern)
 
@@ -153,7 +160,7 @@ const focus = [
 ## Account Notice
 
 My previous GitHub account was unexpectedly suspended.
-This is my new account where I am rebuilding and showcasing my work.
+This is my new account where I am actively rebuilding and showcasing my work.
 
 ---
 
