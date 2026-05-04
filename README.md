@@ -69,6 +69,18 @@ focus: AI + Scalable Mobile Systems
 
 Flutter • Dart • FastAPI • REST API • WebSocket • Riverpod • Bloc • GetX • PostgreSQL • MySQL • Hive • SQLite • Firebase • Google Cloud • Git • GitHub
 
+Mobile Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart" /> </p>
+Backend & APIs
+<p align="center"> <img src="https://skillicons.dev/icons?i=fastapi,nodejs" /> </p>
+State Management
+<p align="center"> <img src="https://skillicons.dev/icons?i=bloc,redux" /> </p>
+Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,sqlite" /> </p>
+Tools & Cloud
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,gcp,firebase,vscode,androidstudio" /> </p>
+
+
 ## EXPERIENCE
 
 Softvence — Flutter Developer
