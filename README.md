@@ -44,31 +44,20 @@
 
 </p>
 
----
-
 ## ABOUT ME
 
-I am a Flutter Developer with 2+ years of experience building scalable production mobile applications for Android and iOS.
-
-I focus on delivering real-world mobile products with clean architecture, performance optimization, backend integration, and AI-powered features.
-
-### Core Strengths
-- Clean architecture and scalable systems  
-- Production-level Flutter applications  
-- REST API and WebSocket integration  
-- AI features in mobile applications  
-- Performance optimization  
+Flutter Developer building scalable production-ready mobile applications for Android and iOS with a focus on clean architecture, backend integration, and AI-powered systems.
 
 ```yaml
 name: Hridoy Hosen Khan
 role: Flutter Developer
+experience: 2+ years
+apps_built: 10+
+platforms: Android, iOS
+focus: AI Integration, Clean Architecture, Scalable Systems, Performance Optimization
 email: hridoykhan.cse.cu@gmail.com
 portfolio: https://hridoysoft.netlify.app/
 linkedin: https://www.linkedin.com/in/hridoy-khan-8b8a6a1a0
-experience: 2+ years
-apps_built: 10+
-platforms: Android and iOS
-focus: AI + Scalable Mobile Systems
 ```
 ## TECH STACK
 
