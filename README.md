@@ -20,7 +20,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=Flutter+Developer;Android+and+iOS+Mobile+Engineer;AI+Powered+Mobile+Applications;Clean+Architecture+and+Scalable+Systems;Production+Grade+Application+Developer" />
 </p>
 
-## LIVE APPLICATIONS
 
 ## LIVE APPLICATIONS
 
