@@ -22,18 +22,22 @@
 
 ## LIVE APPLICATIONS
 
+## LIVE APPLICATIONS
+
 <p align="center">
+
 <a href="https://play.google.com/store/apps/details?id=com.billsmart.app">
-<img src="https://img.shields.io/badge/BilledSmart-Android-Live-1DB954?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BilledSmart-Android%20App-1DB954?style=for-the-badge&logo=google-play" />
 </a>
 
 <a href="https://apps.apple.com/us/app/reparo/id6756050921">
-<img src="https://img.shields.io/badge/Reparo-iOS-Live-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reparo-iOS%20App-000000?style=for-the-badge&logo=apple" />
 </a>
 
 <a href="https://play.google.com/store/apps/details?id=com.deepquran.app">
-<img src="https://img.shields.io/badge/Deep%20Quran-Android-Live-1DB954?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Quran-Android%20App-1DB954?style=for-the-badge&logo=google-play" />
 </a>
+
 </p>
 
 ## ABOUT ME
