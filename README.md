@@ -20,6 +20,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=Flutter+Developer;Android+and+iOS+Mobile+Engineer;AI+Powered+Mobile+Applications;Clean+Architecture+and+Scalable+Systems;Production+Grade+Application+Developer" />
 </p>
 
+---
 
 ## LIVE APPLICATIONS
 
@@ -37,21 +38,26 @@
 <img src="https://img.shields.io/badge/Deep%20Quran-Android%20App-1DB954?style=for-the-badge&logo=google-play" />
 </a>
 
+<a href="https://play.google.com/store/apps/details?id=com.dragonmao.app">
+<img src="https://img.shields.io/badge/Dragon%20Mat-School%20App-1976D2?style=for-the-badge&logo=google-play" />
+</a>
+
 </p>
+
+---
 
 ## ABOUT ME
 
 I am a Flutter Developer with 2+ years of experience building scalable production mobile applications for Android and iOS.
 
-I focus on delivering real world mobile products with clean architecture, performance optimization, and AI integration.
+I focus on delivering real-world mobile products with clean architecture, performance optimization, backend integration, and AI-powered features.
 
-Core strengths:
-
-* Clean architecture and scalable systems
-* Production level Flutter applications
-* REST API and WebSocket integration
-* AI features in mobile applications
-* Performance optimization
+### Core Strengths
+- Clean architecture and scalable systems  
+- Production-level Flutter applications  
+- REST API and WebSocket integration  
+- AI features in mobile applications  
+- Performance optimization  
 
 ```yaml
 name: Hridoy Hosen Khan
@@ -64,61 +70,51 @@ apps_built: 10+
 platforms: Android and iOS
 focus: AI + Scalable Mobile Systems
 ```
-
 ## TECH STACK
 
 Flutter • Dart • FastAPI • REST API • WebSocket • Riverpod • Bloc • GetX • PostgreSQL • MySQL • Hive • SQLite • Firebase • Google Cloud • Git • GitHub
 
-Mobile Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart" /> </p>
-Backend & APIs
-<p align="center"> <img src="https://skillicons.dev/icons?i=fastapi,nodejs" /> </p>
-State Management
-<p align="center"> <img src="https://skillicons.dev/icons?i=bloc,redux" /> </p>
-Databases
-<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,sqlite" /> </p>
-Tools & Cloud
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,gcp,firebase,vscode,androidstudio" /> </p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,fastapi,nodejs,postgres,mysql,firebase,sqlite,git,github,gcp,vscode,androidstudio,redux,bloc" />
+</p>
 
-
-## EXPERIENCE
+EXPERIENCE
 
 Softvence — Flutter Developer
-
-* Built production level mobile applications
-* Designed scalable system architecture
-* Integrated backend and AI systems
-* Improved performance and user experience
+Built production-level mobile applications
+Designed scalable system architecture
+Integrated backend and AI systems
+Improved performance and user experience
 
 SpondonIT — Flutter Developer Intern
+Improved LMS UI and UX
+Implemented multilingual support
+Optimized application performance
 
-* Improved LMS UI and UX
-* Implemented multilingual support
-* Optimized application performance
 
-## FEATURED PROJECTS
+FEATURED PROJECTS
+BilledSmart
 
-### BilledSmart
-
-AI powered billing automation system
-
+AI-powered billing automation system
 <a href="https://play.google.com/store/apps/details?id=com.billsmart.app">Project Link</a>
 
-### Reparo
+Reparo
 
-Enterprise level Flutter application
-
+Enterprise-level Flutter application
 <a href="https://apps.apple.com/us/app/reparo/id6756050921">Project Link</a>
 
-### Deep Quran
+Deep Quran
 
 Modern Quran mobile application
-
 <a href="https://play.google.com/store/apps/details?id=com.deepquran.app">Project Link</a>
 
-## FOCUS
+Dragon Mat (School Attendance System)
 
-```dart
+Smart attendance tracking system for schools
+<a href="https://play.google.com/store/apps/details?id=com.dragonmao.app">Android</a>
+<a href="https://apps.apple.com/us/app/dragon-mat/id6759892711">iOS</a>
+
+FOCUS
 const focusAreas = [
   "AI integrated mobile applications",
   "Scalable backend architecture",
@@ -126,18 +122,8 @@ const focusAreas = [
   "High performance Flutter apps",
   "Production system design"
 ];
-```
-
-## GITHUB STATS
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-## NOTE
+GITHUB STATS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hridoykhan51&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridoykhan51&theme=tokyonight&hide_border=true" /> </p>
+NOTE
 
 Continuously building production apps, AI systems, and scalable mobile solutions.
