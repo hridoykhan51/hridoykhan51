@@ -114,14 +114,6 @@ Smart attendance tracking system for schools
 <a href="https://play.google.com/store/apps/details?id=com.dragonmao.app">Android</a>
 <a href="https://apps.apple.com/us/app/dragon-mat/id6759892711">iOS</a>
 
-FOCUS
-const focusAreas = [
-  "AI integrated mobile applications",
-  "Scalable backend architecture",
-  "Clean maintainable code",
-  "High performance Flutter apps",
-  "Production system design"
-];
 GITHUB STATS
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hridoykhan51&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridoykhan51&theme=tokyonight&hide_border=true" /> </p>
 NOTE
