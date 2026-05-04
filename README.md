@@ -1,12 +1,8 @@
-<!-- ===================== HEADER ===================== -->
-
 <h1 align="center">Hridoy Hosen Khan</h1>
 
 <p align="center">
 <b>Flutter Developer • Mobile Engineer • AI Integration Specialist</b>
 </p>
-
-<!-- ===================== CONTACT LINKS ===================== -->
 
 <p align="center">
 <a href="https://hridoysoft.netlify.app/">
@@ -24,8 +20,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=Flutter+Developer;Android+and+iOS+Mobile+Engineer;AI+Powered+Mobile+Applications;Clean+Architecture+and+Scalable+Systems;Production+Grade+Application+Developer" />
 </p>
 
----
-
 ## LIVE APPLICATIONS
 
 <p align="center">
@@ -41,8 +35,6 @@
 <img src="https://img.shields.io/badge/Deep%20Quran-Android-Live-1DB954?style=for-the-badge" />
 </a>
 </p>
-
----
 
 ## ABOUT ME
 
@@ -70,13 +62,9 @@ platforms: Android and iOS
 focus: AI + Scalable Mobile Systems
 ```
 
----
-
 ## TECH STACK
 
 Flutter • Dart • FastAPI • REST API • WebSocket • Riverpod • Bloc • GetX • PostgreSQL • MySQL • Hive • SQLite • Firebase • Google Cloud • Git • GitHub
-
----
 
 ## EXPERIENCE
 
@@ -93,8 +81,6 @@ SpondonIT — Flutter Developer Intern
 * Implemented multilingual support
 * Optimized application performance
 
----
-
 ## FEATURED PROJECTS
 
 ### BilledSmart
@@ -103,23 +89,17 @@ AI powered billing automation system
 
 <a href="https://play.google.com/store/apps/details?id=com.billsmart.app">Project Link</a>
 
----
-
 ### Reparo
 
 Enterprise level Flutter application
 
 <a href="https://apps.apple.com/us/app/reparo/id6756050921">Project Link</a>
 
----
-
 ### Deep Quran
 
 Modern Quran mobile application
 
 <a href="https://play.google.com/store/apps/details?id=com.deepquran.app">Project Link</a>
-
----
 
 ## FOCUS
 
@@ -133,8 +113,6 @@ const focusAreas = [
 ];
 ```
 
----
-
 ## GITHUB STATS
 
 <p align="center">
@@ -144,8 +122,6 @@ const focusAreas = [
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## NOTE
 
