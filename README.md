@@ -1,6 +1,6 @@
 <div align="center">
 
-<sub>Flutter developer · Softwar Engineer · Bangladesh</sub>
+<sub>Flutter developer · Software Engineer · Bangladesh</sub>
 
 # Hridoy Hosen Khan 
 
