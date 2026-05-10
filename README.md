@@ -1,16 +1,8 @@
 <div align="center">
 
-<sub>Flutter developer · Bangladesh</sub>
+<sub>Flutter developer · Softwar Engineer · Bangladesh</sub>
 
-# Hridoy Hosen Khan · *Mobile Engineer*
-
-<p>2+ years building production-grade Flutter apps for Android & iOS.<br/>AI integration, clean architecture, and full-stack delivery.</p>
-
-<a href="https://hridoysoft.netlify.app/"><img src="https://img.shields.io/badge/🌐 hridoysoft.netlify.app-555555?style=flat-square" /></a>
-<a href="mailto:hridoykhan.cse.cu@gmail.com"><img src="https://img.shields.io/badge/📧 hridoykhan.cse.cu@gmail.com-555555?style=flat-square" /></a>
-<a href="https://www.linkedin.com/in/hridoy-khan-8b8a6a1a0"><img src="https://img.shields.io/badge/in LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-
-<br/>
+# Hridoy Hosen Khan 
 
 <table>
   <tr>
@@ -22,8 +14,6 @@
 </table>
 
 </div>
-
----
 
 <sub>PRODUCTION APPLICATIONS</sub>
 
@@ -125,8 +115,6 @@ Healthcare platform connecting patients and doctors via booking, messaging, and 
 </tr>
 </table>
 
----
-
 <sub>TECHNICAL SKILLS</sub>
 
 **Mobile** &nbsp;
@@ -158,8 +146,6 @@ Healthcare platform connecting patients and doctors via booking, messaging, and 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -173,8 +159,6 @@ Healthcare platform connecting patients and doctors via booking, messaging, and 
 
 </div>
 
----
-
 <div align="center">
 
 ### Open to new projects
@@ -183,10 +167,10 @@ Freelance, full-time roles, and technical collaborations welcome.
 
 <br/>
 
-<a href="mailto:hridoykhan.cse.cu@gmail.com"><img src="https://img.shields.io/badge/📧 Send an email-111111?style=for-the-badge" /></a>
-&nbsp;
-<a href="https://hridoysoft.netlify.app/"><img src="https://img.shields.io/badge/🌐 Visit portfolio-333333?style=for-the-badge" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/hridoy-khan-8b8a6a1a0"><img src="https://img.shields.io/badge/in LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://hridoysoft.netlify.app/"><img src="https://img.shields.io/badge/🌐 hridoysoft.netlify.app-555555?style=flat-square" /></a>
+<a href="mailto:hridoykhan.cse.cu@gmail.com"><img src="https://img.shields.io/badge/📧 hridoykhan.cse.cu@gmail.com-555555?style=flat-square" /></a>
+<a href="https://www.linkedin.com/in/hridoy-khan-8b8a6a1a0"><img src="https://img.shields.io/badge/in LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+
+<br/>
 
 </div>
