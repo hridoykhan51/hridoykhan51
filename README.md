@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td align="center" width="160"><br/><h2>3+</h2><sub>YEARS EXP.</sub><br/><br/></td>
+    <td align="center" width="160"><br/><h2>2+</h2><sub>YEARS EXP.</sub><br/><br/></td>
     <td align="center" width="160"><br/><h2>10+</h2><sub>APPS SHIPPED</sub><br/><br/></td>
     <td align="center" width="160"><br/><h2>2</h2><sub>PLATFORMS</sub><br/><br/></td>
     <td align="center" width="160"><br/><h2>∞</h2><sub>CLEAN ARCH</sub><br/><br/></td>
