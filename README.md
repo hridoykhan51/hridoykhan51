@@ -15,7 +15,7 @@
 
 </div>
 
-<sub>PRODUCTION APPLICATIONS</sub><br>
+## PRODUCTION APPLICATIONS <br>
 
 <table width="100%">
 <tr>
@@ -130,7 +130,7 @@ Flutter • Firebase • WebRTC
 </tr>
 </table>
 
-<sub>TECHNICAL SKILLS</sub>
+## TECHNICAL SKILLS
 
 **Mobile** &nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
