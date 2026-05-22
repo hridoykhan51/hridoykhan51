@@ -2,8 +2,6 @@
 
 <sub>Flutter developer · Software Engineer · Bangladesh</sub>
 
-# Hridoy Hosen Khan 
-
 <table>
   <tr>
     <td align="center" width="160"><br/><h2>2+</h2><sub>YEARS EXP.</sub><br/><br/></td>
