@@ -14,7 +14,6 @@
 </table>
 
 </div>
-
 <sub>PRODUCTION APPLICATIONS</sub>
 
 <table width="100%">
@@ -22,93 +21,108 @@
 
 <td width="50%" valign="top">
 
-**BilledSmart** &nbsp; ![AI Powered](https://img.shields.io/badge/AI%20Powered-7C3AED?style=flat-square)
+### BilledSmart
+<sub>AI Billing Platform</sub>
 
 AI billing automation that eliminates manual invoicing through intelligent document processing.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+**Tech Stack**  
+Flutter • FastAPI • Dart
 
-[![Play Store ↗](https://img.shields.io/badge/▶_Play_Store-1DB954?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.billsmart.app)
+<br>
+
+[![Play Store ↗](https://img.shields.io/badge/▶_Play_Store-1DB954?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.billsmart.app)
 
 </td>
 
 <td width="50%" valign="top">
 
-**Reparo** &nbsp; ![App Store](https://img.shields.io/badge/App%20Store-0EA5E9?style=flat-square)
+### Reparo
+<sub>Enterprise Service Platform</sub>
 
 Enterprise-grade Flutter app engineered for scalability and business-critical operations.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![BLoC](https://img.shields.io/badge/BLoC-0175C2?style=flat-square)
+**Tech Stack**  
+Flutter • Firebase • BLoC
 
-[![App Store ↗](https://img.shields.io/badge/_App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/reparo/id6756050921)
+<br>
+
+[![App Store ↗](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/reparo/id6756050921)
 
 </td>
 
 </tr>
+
 <tr>
 
 <td width="50%" valign="top">
 
-**Deep Quran** &nbsp; ![Education](https://img.shields.io/badge/Education-059669?style=flat-square)
+### Deep Quran
+<sub>Islamic Education App</sub>
 
 Modern Quran app with recitations, multilingual translations, and in-depth study tools.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat-square)
+**Tech Stack**  
+Flutter • SQLite • REST API
 
-[![Play Store ↗](https://img.shields.io/badge/▶_Play_Store-1DB954?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.deepquran.app)
+<br>
+
+[![Play Store ↗](https://img.shields.io/badge/▶_Play_Store-1DB954?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.deepquran.app)
 
 </td>
 
 <td width="50%" valign="top">
 
-**Dragon Mat** &nbsp; ![Android + iOS](https://img.shields.io/badge/Android%20+%20iOS-D97706?style=flat-square)
+### Dragon Mat
+<sub>School Management System</sub>
 
 Smart school attendance tracking with real-time monitoring and automated reporting.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Tech Stack**  
+Flutter • Firebase • PostgreSQL
 
-[![Play Store ↗](https://img.shields.io/badge/▶_Play_Store-1DB954?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dragonmao.app)
-[![App Store ↗](https://img.shields.io/badge/_App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/dragon-mat/id6759892711)
+<br>
+
+[![Play Store ↗](https://img.shields.io/badge/▶_Play_Store-1DB954?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dragonmao.app)
+[![App Store ↗](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/dragon-mat/id6759892711)
 
 </td>
 
 </tr>
+
 <tr>
 
 <td width="50%" valign="top">
 
-**PD USA** &nbsp; ![Service Mgmt](https://img.shields.io/badge/Service%20Mgmt-EF4444?style=flat-square)
+### PD USA
+<sub>Service Workflow Platform</sub>
 
-Installation service platform — admins create jobs, installers bid, customers get live email updates.
+Installation service platform where admins create jobs, installers bid, and customers receive live updates.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Workflow](https://img.shields.io/badge/Workflow-7C3AED?style=flat-square)
+**Tech Stack**  
+Flutter • Firebase • Workflow Automation
 
-[![Play Store ↗](https://img.shields.io/badge/▶_Play_Store-1DB954?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.outdoda.softvence)
-[![App Store ↗](https://img.shields.io/badge/_App_Store-000000?style=flat-square&logo=apple&logoColor=white)](http://apps.apple.com/sl/app/pd-usa/id6765813275)
+<br>
+
+[![Play Store ↗](https://img.shields.io/badge/▶_Play_Store-1DB954?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.outdoda.softvence)
+
+[![App Store ↗](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](http://apps.apple.com/sl/app/pd-usa/id6765813275)
 
 </td>
 
 <td width="50%" valign="top">
 
-**MedConnect** &nbsp; ![Healthcare](https://img.shields.io/badge/Healthcare-EC4899?style=flat-square)
+### MedConnect
+<sub>Healthcare Platform</sub>
 
-Healthcare platform connecting patients and doctors via booking, messaging, and video consultations.
+Healthcare platform connecting patients and doctors through booking, messaging, and video consultations.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square)
+**Tech Stack**  
+Flutter • Firebase • WebRTC
 
-[![Play Store ↗](https://img.shields.io/badge/▶_Play_Store-1DB954?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.medconnect.ge.app)
+<br>
+
+[![Play Store ↗](https://img.shields.io/badge/▶_Play_Store-1DB954?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.medconnect.ge.app)
 
 </td>
 
