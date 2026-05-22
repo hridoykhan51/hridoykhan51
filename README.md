@@ -163,27 +163,41 @@ Flutter • Firebase • WebRTC
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hridoykhan51&show_icons=true&theme=tokyonight&hide_border=true&title_color=0A66C2&icon_color=0A66C2&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hridoykhan51&theme=tokyonight&hide_border=true" />
+<!-- Streak -->
+<img 
+  width="49%" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=hridoykhan51&theme=tokyonight&hide_border=true" 
+/>
 
-<br/><br/>
+<!-- Main Stats -->
+<img 
+  width="49%" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=hridoykhan51&show_icons=true&theme=tokyonight&hide_border=true" 
+/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridoykhan51&layout=compact&theme=tokyonight&hide_border=true&title_color=0A66C2&langs_count=6" />
+<br/>
 
-</div>
+### Open to new opportunities
+
+I’m available for **freelance work, full-time roles, and technical collaborations** focused on Flutter, backend systems, and scalable mobile applications.
+
+<br/>
 
 <div align="center">
 
-### Open to new projects
+<a href="https://hridoysoft.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-hridoysoft.netlify.app-555555?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
 
-Freelance, full-time roles, and technical collaborations welcome.
-
+<a href="mailto:hridoykhan.cse.cu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hridoykhan.cse.cu@gmail.com-555555?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <br/>
-
-<a href="https://hridoysoft.netlify.app/"><img src="https://img.shields.io/badge/🌐 hridoysoft.netlify.app-555555?style=flat-square" /></a>
-<a href="mailto:hridoykhan.cse.cu@gmail.com"><img src="https://img.shields.io/badge/📧 hridoykhan.cse.cu@gmail.com-555555?style=flat-square" /></a>
-<a href="https://www.linkedin.com/in/hridoy-khan-8b8a6a1a0"><img src="https://img.shields.io/badge/in LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-
-<br/>
+<a href="https://www.linkedin.com/in/hridoy-khan-8b8a6a1a0">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
+
+<br/>
+
